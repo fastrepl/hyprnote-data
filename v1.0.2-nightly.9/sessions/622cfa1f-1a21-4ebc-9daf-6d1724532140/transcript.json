@@ -1,0 +1,794 @@
+{
+  "transcripts": [
+    {
+      "created_at": "2026-01-21T07:04:05.769Z",
+      "id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+      "session_id": "622cfa1f-1a21-4ebc-9daf-6d1724532140",
+      "speaker_hints": [
+        {
+          "created_at": "2026-01-21T07:04:07.685Z",
+          "id": "f909fbc8-892e-49e3-942e-d5f3dde79d39",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "ec6b5bf8-4e1c-462e-a961-80d04aa26b54"
+        },
+        {
+          "created_at": "2026-01-21T07:04:07.685Z",
+          "id": "a317106d-eb71-49e8-9d5a-083ba8fa9970",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "cfb2e1bc-16a8-4ca6-9c1c-376a239d6854"
+        },
+        {
+          "created_at": "2026-01-21T07:04:07.685Z",
+          "id": "f14c92d3-a23b-4b8f-8981-eac70089220a",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "e9be6d1f-d8e6-4dd2-b32e-c42b41c29ea6"
+        },
+        {
+          "created_at": "2026-01-21T07:04:07.685Z",
+          "id": "7fc4d6c0-df8f-41ca-a49a-3f84745970ee",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "5392dc6b-01e5-45dc-828e-908dffec9634"
+        },
+        {
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "id": "59bf86bf-f396-4009-b310-6b36b9619a97",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "08aa1d63-316a-461b-b9e1-941c84c07aad"
+        },
+        {
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "id": "1cfc09fe-ba05-48d9-b405-591e3e87c5f8",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "09e3b6e2-ee3f-4361-ba95-37ed12866b03"
+        },
+        {
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "id": "17bc27bb-80f9-409c-baf6-6d5a74f8ef38",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "8b498387-795b-4488-829a-937bd1944f2a"
+        },
+        {
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "id": "62041e14-9439-4278-b9d0-b4e66c14a5b8",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "82015ace-4774-462b-90dc-cc3b6dd65d14"
+        },
+        {
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "id": "45493126-81a5-421b-9b4d-f5f2234e336c",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "c7fbab19-8d21-48c2-bdba-f69c1ffe1948"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "e40bdb54-f006-4624-8a0f-1b3cf5db5754",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "f6624269-c130-4226-83a7-f5ff42299c03"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "8d55a39a-198a-477c-b9ec-fde5be9673c5",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "525c289f-2f12-4ec0-ba70-cc309cd0eebf"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "49dc3e21-fd65-4e62-bd74-d66bbbcfb56d",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "1a4bb04d-3299-4c3e-9534-c6b6c4f11dad"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "5dddc196-9a0d-49b0-b82f-292161a436e4",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "77283f02-ed0a-45c6-849b-3d38d1c58158"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "d7fa778d-8850-48d0-8e57-7aa4db253160",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "87369120-c62d-407f-9ec2-9c1782562b89"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "4c93eb48-dc11-48bd-8797-ae0820f1dbc9",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "03f90e17-4780-4f81-8a0b-3f1142aba753"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "81c78443-6d9e-4582-9490-6d1757c4eec5",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "4754039f-7f51-4a81-83c7-288cf06e1cfd"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "67fdcbd3-06be-490d-8948-452e6395624d",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "3062883c-de80-463c-acb2-5dafc0942614"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "fa328ca6-e4e4-4c14-8d07-d6c286a86f7b",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "b8229fb2-aa1a-418c-97c9-55c7a4294714"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "9e34d426-2b7e-4141-a1f3-72898330e58d",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "93130fc6-dd11-4656-a9a9-46fdd8fea71f"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "a56e9bcd-4e9a-4ddc-b3b3-37313f545faa",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "75f27894-8122-4afe-8082-071c6ed187b6"
+        },
+        {
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "id": "7a62205d-7f5c-4708-940c-3dc97e5847fd",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "7f8ae6a5-d37c-4dc4-8d6b-d4e000ef1aa5"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "11cdc891-c40c-46fb-ac26-2ffe42261829",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "0df38b71-fad3-4d14-b459-343f71d3b416"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "d623c5b5-401a-4492-af36-ab1f13bf2ad3",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "8d2ee16b-2a32-48b4-9d2a-79f0e0ba1bf6"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "e6924984-0429-4f14-a1b8-4d03fdab4309",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "1b8e7997-fb18-4f4a-85e2-eb086fcf24fe"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "e0e355dc-d611-4b33-86e8-2845701cfe02",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "1695f2ad-611b-43e7-a30c-8e3d2fe2a30b"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "a6aed873-8a89-4717-9077-0b3aa543e83e",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "998aaa2c-1454-4745-aeda-a57411e50759"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "52b30036-043e-4525-ba10-0f73a5f5405e",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "d44205e5-287e-4e22-98b9-b9cb8c5b34f5"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "4b196ef3-612f-47bf-8108-26572cf157e3",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "4e5a9c47-c55c-43df-93b2-d220e32b7e69"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "684bc1e8-bf46-48cc-9905-963262b08fc9",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "bff5a073-3c05-4453-aec4-8dbcdc69fd33"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "f3fe7627-8bb9-46a9-becf-4028ab75f572",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "ba93e302-85ab-494e-bc1a-e7954dccc5c0"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "e45edc53-4a5c-4a49-9437-1aa5ec4e14dd",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "4c0a67b6-5fa7-453f-9790-7d2fb947ec8a"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "b3a0d245-b263-48eb-a7e2-c8518f7c8b37",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "47f2cade-93b1-4e1e-97c7-110315dcb7e2"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "da855b68-0906-4c36-8869-5bc473f89895",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "705b41f9-8591-444d-8618-20340887ae89"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "88e47153-0bea-4710-b5d6-129addac079d",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "fdaa091d-5693-4535-85f1-7790af0c099b"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "171080f5-f6dc-4d10-aecf-8e8d6dfc87f9",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "111633c2-6f28-4431-8025-de296c1232b3"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "97b5c0e1-5d96-4360-a8c8-8fb4e6917f80",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "cad31f4b-f500-4cb9-92f5-4754ee80fd45"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "bab6e898-4997-4e41-975b-56999684ad79",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "294baf88-8ac7-44b3-a0f5-234e013c3348"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "853f7c03-a477-472a-903b-80b3344dd51c",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "cf87f32e-2805-4dee-9fd8-f294ecacfcf5"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "e6db71a0-4cf1-4667-b9ab-4248fcd0c7c6",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "e96d00b2-a040-4b7b-8a6b-ebcb80b3759d"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "7eb7fe4c-ad59-4209-afef-71a10910d050",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "f892050a-9efe-4a29-a9b0-9de17ff30ef9"
+        },
+        {
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "id": "bdae8e56-0c67-4e68-b674-81633beac434",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "type": "provider_speaker_index",
+          "user_id": "00000000-0000-0000-0000-000000000000",
+          "value": "{\"provider\":\"deepgram\",\"channel\":1,\"speaker_index\":0}",
+          "word_id": "f02ce6e9-6c16-455f-8ed4-abefbee421cb"
+        }
+      ],
+      "started_at": 1768979045769,
+      "user_id": "00000000-0000-0000-0000-000000000000",
+      "words": [
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:07.685Z",
+          "end_ms": 642,
+          "id": "ec6b5bf8-4e1c-462e-a961-80d04aa26b54",
+          "start_ms": 162,
+          "text": " VN,",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:07.685Z",
+          "end_ms": 802,
+          "id": "cfb2e1bc-16a8-4ca6-9c1c-376a239d6854",
+          "start_ms": 642,
+          "text": " and",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:07.685Z",
+          "end_ms": 882,
+          "id": "e9be6d1f-d8e6-4dd2-b32e-c42b41c29ea6",
+          "start_ms": 802,
+          "text": " I",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:07.685Z",
+          "end_ms": 1122,
+          "id": "5392dc6b-01e5-45dc-828e-908dffec9634",
+          "start_ms": 882,
+          "text": " used",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "end_ms": 2482,
+          "id": "08aa1d63-316a-461b-b9e1-941c84c07aad",
+          "start_ms": 1282,
+          "text": " tortoise",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "end_ms": 3282,
+          "id": "09e3b6e2-ee3f-4361-ba95-37ed12866b03",
+          "start_ms": 2642,
+          "text": " SVN.",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "end_ms": 3682,
+          "id": "8b498387-795b-4488-829a-937bd1944f2a",
+          "start_ms": 3282,
+          "text": " Okay?",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "end_ms": 3842,
+          "id": "82015ace-4774-462b-90dc-cc3b6dd65d14",
+          "start_ms": 3682,
+          "text": " So",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:12.654Z",
+          "end_ms": 4162,
+          "id": "c7fbab19-8d21-48c2-bdba-f69c1ffe1948",
+          "start_ms": 3842,
+          "text": " when",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 4732,
+          "id": "f6624269-c130-4226-83a7-f5ff42299c03",
+          "start_ms": 4332,
+          "text": " Mercurial",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 4892,
+          "id": "525c289f-2f12-4ec0-ba70-cc309cd0eebf",
+          "start_ms": 4732,
+          "text": " came",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 5132,
+          "id": "1a4bb04d-3299-4c3e-9534-c6b6c4f11dad",
+          "start_ms": 4892,
+          "text": " out,",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 5212,
+          "id": "77283f02-ed0a-45c6-849b-3d38d1c58158",
+          "start_ms": 5132,
+          "text": " I",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 5292,
+          "id": "87369120-c62d-407f-9ec2-9c1782562b89",
+          "start_ms": 5212,
+          "text": " had",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 5532,
+          "id": "03f90e17-4780-4f81-8a0b-3f1142aba753",
+          "start_ms": 5292,
+          "text": " no",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 5772,
+          "id": "4754039f-7f51-4a81-83c7-288cf06e1cfd",
+          "start_ms": 5692,
+          "text": " I",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 5932,
+          "id": "3062883c-de80-463c-acb2-5dafc0942614",
+          "start_ms": 5772,
+          "text": " had",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 6092,
+          "id": "b8229fb2-aa1a-418c-97c9-55c7a4294714",
+          "start_ms": 5932,
+          "text": " like",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 6492,
+          "id": "93130fc6-dd11-4656-a9a9-46fdd8fea71f",
+          "start_ms": 6092,
+          "text": " literally",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 6732,
+          "id": "75f27894-8122-4afe-8082-071c6ed187b6",
+          "start_ms": 6492,
+          "text": " no",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:13.537Z",
+          "end_ms": 6892,
+          "id": "7f8ae6a5-d37c-4dc4-8d6b-d4e000ef1aa5",
+          "start_ms": 6732,
+          "text": " idea.",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 7552,
+          "id": "0df38b71-fad3-4d14-b459-343f71d3b416",
+          "start_ms": 7312,
+          "text": " You",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 7792,
+          "id": "8d2ee16b-2a32-48b4-9d2a-79f0e0ba1bf6",
+          "start_ms": 7552,
+          "text": " seem",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 8032,
+          "id": "1b8e7997-fb18-4f4a-85e2-eb086fcf24fe",
+          "start_ms": 7792,
+          "text": " to",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 8192,
+          "id": "1695f2ad-611b-43e7-a30c-8e3d2fe2a30b",
+          "start_ms": 8032,
+          "text": " be",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 8432,
+          "id": "998aaa2c-1454-4745-aeda-a57411e50759",
+          "start_ms": 8192,
+          "text": " right.",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 8592,
+          "id": "d44205e5-287e-4e22-98b9-b9cb8c5b34f5",
+          "start_ms": 8432,
+          "text": " Yeah.",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 8672,
+          "id": "4e5a9c47-c55c-43df-93b2-d220e32b7e69",
+          "start_ms": 8592,
+          "text": " I",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 8832,
+          "id": "bff5a073-3c05-4453-aec4-8dbcdc69fd33",
+          "start_ms": 8672,
+          "text": " I",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 8992,
+          "id": "ba93e302-85ab-494e-bc1a-e7954dccc5c0",
+          "start_ms": 8832,
+          "text": " thought",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 9152,
+          "id": "4c0a67b6-5fa7-453f-9790-7d2fb947ec8a",
+          "start_ms": 8992,
+          "text": " I",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 9312,
+          "id": "47f2cade-93b1-4e1e-97c7-110315dcb7e2",
+          "start_ms": 9152,
+          "text": " thought",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 9472,
+          "id": "705b41f9-8591-444d-8618-20340887ae89",
+          "start_ms": 9312,
+          "text": " as",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 9712,
+          "id": "fdaa091d-5693-4535-85f1-7790af0c099b",
+          "start_ms": 9632,
+          "text": " I",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 9792,
+          "id": "111633c2-6f28-4431-8025-de296c1232b3",
+          "start_ms": 9712,
+          "text": " thought",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 10272,
+          "id": "cad31f4b-f500-4cb9-92f5-4754ee80fd45",
+          "start_ms": 9792,
+          "text": " Mercurial",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 10512,
+          "id": "294baf88-8ac7-44b3-a0f5-234e013c3348",
+          "start_ms": 10272,
+          "text": " had",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 10672,
+          "id": "cf87f32e-2805-4dee-9fd8-f294ecacfcf5",
+          "start_ms": 10512,
+          "text": " some",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 10832,
+          "id": "e96d00b2-a040-4b7b-8a6b-ebcb80b3759d",
+          "start_ms": 10672,
+          "text": " rules",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 11072,
+          "id": "f892050a-9efe-4a29-a9b0-9de17ff30ef9",
+          "start_ms": 10832,
+          "text": " around",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "channel": 1,
+          "created_at": "2026-01-21T07:04:18.141Z",
+          "end_ms": 11232,
+          "id": "f02ce6e9-6c16-455f-8ed4-abefbee421cb",
+          "start_ms": 11072,
+          "text": " lock",
+          "transcript_id": "83593e87-8c49-4878-b29f-34fba5087ceb",
+          "user_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}
