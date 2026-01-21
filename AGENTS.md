@@ -1,6 +1,8 @@
 - `<VERSION>/AGENTS.md` should be generated based on `fastrepl/hyprnote`'s git tag.
   - For example, `v1.0.1/*` should be based on `https://github.com/fastrepl/hyprnote/tree/desktop_v1.0.1`.
   - Each `AGENTS.md` should contain clear descriptions/examples of how data on user devices looks.
+  - Each `AGENTS.md` should never reference `main` or migrations. 
+  - Describe how data looks in detail. Never make mistakes on format or filename.
 - `<VERSION>/<NAME>` should be a folder that can be used for the `CONTENT_BASE` env variable.
   - For example, `CONTENT_BASE="$REPO/v1.0.1/simple" /Applications/Hyprnote\ Staging.app/Contents/MacOS/hyprnote-staging`
   - This ensures new versions work properly with existing user data.
