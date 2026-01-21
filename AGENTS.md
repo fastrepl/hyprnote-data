@@ -3,6 +3,7 @@
   - Each `AGENTS.md` should contain clear descriptions/examples of how data on user devices looks.
   - Each `AGENTS.md` should never reference `main` or migrations. 
   - Describe how data looks in detail. Never make mistakes on format or filename.
+  - Note that `hyprnote/crates/db-user` is irrelevant. Focus on `hyprnote/apps/desktop/src/store/tinybase`.
 - `<VERSION>/<NAME>` should be a folder that can be used for the `CONTENT_BASE` env variable.
   - For example, `CONTENT_BASE="$REPO/v1.0.1/simple" /Applications/Hyprnote\ Staging.app/Contents/MacOS/hyprnote-staging`
   - This ensures new versions work properly with existing user data.
